@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cyo23/Little-Lemon/static/css/main.1030431c.css",
+    "main.js": "/cyo23/Little-Lemon/static/js/main.7454a7f5.js",
+    "static/js/787.0e637884.chunk.js": "/cyo23/Little-Lemon/static/js/787.0e637884.chunk.js",
+    "static/media/food1.png": "/cyo23/Little-Lemon/static/media/food1.cf22ea3785b35d4eea84.png",
+    "static/media/food5.jpeg": "/cyo23/Little-Lemon/static/media/food5.47717fbc1b9f0e72382e.jpeg",
+    "static/media/lemon-dessert.webp": "/cyo23/Little-Lemon/static/media/lemon-dessert.6af142378d3f539c7ecb.webp",
+    "static/media/bruschetta.jpeg": "/cyo23/Little-Lemon/static/media/bruschetta.b0415dd9cd625aa27e44.jpeg",
+    "static/media/greek-salad.webp": "/cyo23/Little-Lemon/static/media/greek-salad.0630522a827a5188a66d.webp",
+    "static/media/food4.webp": "/cyo23/Little-Lemon/static/media/food4.aef154ce876c762e864c.webp",
+    "static/media/food2.jpeg": "/cyo23/Little-Lemon/static/media/food2.0dcd90e2c8fd640454bf.jpeg",
+    "static/media/menu.webp": "/cyo23/Little-Lemon/static/media/menu.9b7e092be47f16ae049f.webp",
+    "static/media/food3.jpeg": "/cyo23/Little-Lemon/static/media/food3.90486b3529cd6d885d9a.jpeg",
+    "static/media/footer-logo.png": "/cyo23/Little-Lemon/static/media/footer-logo.4470f9c9e815da98dbb3.png",
+    "static/media/nav-logo.png": "/cyo23/Little-Lemon/static/media/nav-logo.f89ba834e43f4451ed52.png",
+    "index.html": "/cyo23/Little-Lemon/index.html",
+    "main.1030431c.css.map": "/cyo23/Little-Lemon/static/css/main.1030431c.css.map",
+    "main.7454a7f5.js.map": "/cyo23/Little-Lemon/static/js/main.7454a7f5.js.map",
+    "787.0e637884.chunk.js.map": "/cyo23/Little-Lemon/static/js/787.0e637884.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1030431c.css",
+    "static/js/main.7454a7f5.js"
+  ]
+}
